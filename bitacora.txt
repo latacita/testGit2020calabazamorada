@@ -29,3 +29,14 @@
                                     deberian generar conflictos.
 
 (13) Commit "Paso 13"
+
+(14) Merge Antecedentes into Master Se ha producido un conflicto en el
+                                    fichero bitacora. Se han resuelto los conflictos
+                                    del fichero desde gitKraken, se han guardado
+                                    y se ha hecho el commit.
+
+(15)Merge DatosPersonales into Master Se ha producido un conflicto en el fichero bitacora.
+                                    Se han resuelto los conflictos del fichero
+                                    desde gitKraken, se han guardado y se ha hecho
+                                    el commit.
+(16) Commit "Paso 16"
