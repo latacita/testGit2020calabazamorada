@@ -40,3 +40,7 @@
                                     desde gitKraken, se han guardado y se ha hecho
                                     el commit.
 (16) Commit "Paso 16"
+
+(17) Create tag "FusionTerminada"
+(18) Push
+(19) Commit "Paso" 19 Y Push
