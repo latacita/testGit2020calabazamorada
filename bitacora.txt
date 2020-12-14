@@ -6,6 +6,8 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(02) Create branch DatosPersonales   Esta rama se ha creado apartir
+                                     de la rama master
 (06)                                Moverse a la rama master, ya que
                                     es desde donde se creó la rama
                                     Datos Personales
@@ -15,6 +17,10 @@
 (09) Commit "Paso 09"
 (10)                                Asegurar que se han hecho commit
                                     en el paso 9  y cambiar a master
+
+(03)                                 Editado fichero desde Atom
+(04)                                 Editado fichero desde Atom
+(05) Commit "Paso 05"
 
 (11) Push                           Push de la rama DatosPersonales
 
