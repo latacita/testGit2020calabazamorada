@@ -1,8 +1,14 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Corales Acosta Carolay B.            %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(02) Create branch DatosPersonales   Esta rama se ha creado apartir
+                                     de la rama master
+
+(03)                                 Editado fichero desde Atom
+(04)                                 Editado fichero desde Atom
+(05) Commit "Paso 05"
