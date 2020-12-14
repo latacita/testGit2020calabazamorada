@@ -1,8 +1,18 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Corales Acosta Carolay B.            %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(10)                                Asegurar que se han hecho commit
+                                    en el paso 9  y cambiar a master
+
+(11) Push                           Push de la rama DatosPersonales
+
+(12)                                Después del paso 11, una funcion recursiva. Los cambios
+                                    en de los ficheros de texto no
+                                    deberian generar conflictos.
+
+(13) Commit "Paso 13"
