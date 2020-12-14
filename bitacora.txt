@@ -1,8 +1,15 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Corales Acosta Carolay B.            %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(06)                                Moverse a la rama master, ya que
+                                    es desde donde se creó la rama
+                                    Datos Personales
+(07) Create branch Antecedentes
+(08)                                Fichero antecedentes.txt creado
+                                    y modificado desde Atom
+(09) Commit "Paso 09"
